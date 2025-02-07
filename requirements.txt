@@ -1,0 +1,24 @@
+streamlit
+torch
+torchaudio
+numpy
+scipy
+plotly
+pathlib
+typing-extensions
+python-dateutil
+soundfile 
+sox
+onnxruntime
+tqdm
+urllib3
+
+
+# # torch==2.1.0
+# # torchaudio==2.1.0
+# streamlit
+# numpy
+# scipy
+# urllib3
+# soundfile
+--extra-index-url https://download.pytorch.org/whl/cpu
